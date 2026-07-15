@@ -595,6 +595,11 @@ hash = "8623111cb270bf8f5dfd85d0743e0f7cb6301dcfe957e697539d7b664330ab39"
 metafile = true
 
 [[files]]
+file = "mods/leashable-collars-(unofficial-port).pw.toml"
+hash = "f3e927f8d8f786783d8875f940ea413283a9395913b7194c2d33995915a29211"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "ba42c56a60cb1ec2cf60c15d1ea58477dc767672fc50728beb1eecd29b88d043"
 metafile = true
