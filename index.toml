@@ -121,6 +121,16 @@ hash = "33810492bded250ac08a425d8fc2640912354b3c474c6746f1980836863ed6ea"
 metafile = true
 
 [[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "0344292d400b0fc235acb610278d4b3068275f849a7cd9659c9a7e5da5add621"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "f1f00a97ab55638727f11eab3bb20fe021d11331801ee75ea90614ef24a69d58"
+metafile = true
+
+[[files]]
 file = "mods/contraption-lights.pw.toml"
 hash = "0fb2d198522a5fd03bbbff19a97c801e3dab323e6e35928b51be35492af264fa"
 metafile = true
@@ -481,6 +491,11 @@ hash = "a52d3ba3af210789b24da806a04ebec827d24c66e8a21d8f8980f14278ab092d"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "e074532fbb22bc5e8d8c3f969fc7e62971a1f21af53e5594b10a156da7f154f9"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "320810701022098a72aec7b907adba156bd2615aeb0c30576d7f46c1abe0325c"
 metafile = true
@@ -611,8 +626,8 @@ hash = "7d32a097b18f9af470519fde4d16b3b8dd52ed6cf2c4bfabef224fb75187c822"
 metafile = true
 
 [[files]]
-file = "mods/music-maker-mod-neoforge.pw.toml"
-hash = "f7e062fdf3a60af6ee2d7e1a585bf58ed62cb4b6d89bed1c33a2f47964c3f014"
+file = "mods/music-maker-mod.pw.toml"
+hash = "238cd41f0bf94530e1ed85e061f5fadf04ef27edb56c131a2c9518923cbb9dd6"
 metafile = true
 
 [[files]]
