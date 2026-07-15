@@ -1,0 +1,18 @@
+filename = 'analogclock-1.5.0-alpha.1-neoforge+1.21.1.jar'
+name = 'Analog'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.5.0-alpha.1+1.21.1'
+
+[download]
+hash = 'acb7b9ef75a420810b119970731213b48ed7ae185083c9ce400f0551c4637c533ec6ac262e274a88eba37504859f7b65d8c2b16690c6dd5192471c7c4950dd18'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JgCDIrFK/versions/xcSxkqqM/analogclock-1.5.0-alpha.1-neoforge%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'JgCDIrFK'
+version = 'xcSxkqqM'

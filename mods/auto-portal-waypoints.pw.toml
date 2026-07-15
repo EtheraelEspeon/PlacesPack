@@ -1,0 +1,22 @@
+filename = 'autoportalwaypoints-1.0.2.jar'
+name = 'Auto Portal Waypoints'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.11', '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2'
+
+[download]
+hash = '711e7e7ab1bdbe026706de2a2adac9f148576d91f969e80973bf793afd6a8953ac7d9bd6d57e7bf14b57d9f15c826c5ea68563222199220b0c339c02621cc97b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nOiJc4Hu/versions/mtR8juzJ/autoportalwaypoints-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'nOiJc4Hu'
+version = 'mtR8juzJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lfHFW1mp'
+type = 'REQUIRED'
+version = 'a0k4neCF'

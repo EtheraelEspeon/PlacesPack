@@ -1,0 +1,18 @@
+filename = 'chromacaptions-neoforge-1.0.0.jar'
+name = 'Chroma Captions'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = 'fcb0bf248b4fa87cc20453c32efffc0f3b44ac01923cb82c54720c7395e3f77840002f905c259476e241f2048426dc6ac72ed249b08db718e94440d21a7ca12a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WfdQW6BL/versions/Md8Lv1WB/chromacaptions-neoforge-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'WfdQW6BL'
+version = 'Md8Lv1WB'

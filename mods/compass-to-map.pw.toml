@@ -1,0 +1,29 @@
+filename = 'compass2map-2.0.3-neoforge-1.21.1.jar'
+name = 'Compass to Map: JourneyMap'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.3+neoforge-1.21.1'
+
+[download]
+hash = 'a8e6d83ccfccb1565a6c49ceffeb1ba7c619ab22eeeedce0f4a077f2b718b77a1fd5164e6563c563fb9b23a074e98789f4f4cd82ed6890936bae517ba3514fab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Y6HhXts4/versions/N4lfa2qq/compass2map-2.0.3-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'Y6HhXts4'
+version = 'N4lfa2qq'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lfHFW1mp'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fPetb5Kh'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'RV1qfVQ8'
+type = 'OPTIONAL'

@@ -1,0 +1,21 @@
+filename = 'sable_pallets-1.0.2-neoforge-1.21.1.jar'
+name = 'Create Sable Pallets'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2'
+
+[download]
+hash = '959aa9619febb9384db72aaafebc6e24f15a8973c16d4a8c3eb6746c77cfdac11ff695a94c05eefee6d8e8f740224cdf5cdce61dbe36cfbc177eb5a2a34d9e21'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rEMKY2sT/versions/VuTR22ew/sable_pallets-1.0.2-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'rEMKY2sT'
+version = 'VuTR22ew'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'

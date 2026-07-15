@@ -1,0 +1,21 @@
+filename = 'sophisticateditemactions-1.21.1-0.5.8.342.jar'
+name = 'Sophisticated Item Actions'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-0.5.8.342'
+
+[download]
+hash = '2c81b7be1f41916373826c30544bcd8c8929755e0ae37db3a9c8f8981789c79cbc59c38f5cfc3652f9e46f2ce6350879834648165209f121e706fb380815cd78'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RMW7bKVL/versions/tjjSJFWz/sophisticateditemactions-1.21.1-0.5.8.342.jar'
+
+[update.modrinth]
+mod-id = 'RMW7bKVL'
+version = 'tjjSJFWz'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nmoqTijg'
+type = 'REQUIRED'

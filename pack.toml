@@ -1,0 +1,13 @@
+name = "Places Pack"
+author = "faggot family"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9fac09d6c72b5821c42ee4ada6c49efd8b788130f6e879f293dd8ab689fe9d49"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"

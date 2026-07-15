@@ -1,0 +1,18 @@
+filename = 'no-free-deaths-1.1.2.jar'
+name = 'No Free Deaths: Better keepInventory'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.2+mod'
+
+[download]
+hash = '6ec530cc4a90d0631db8ee19dd21ed5c48b15cd36ef6d862149e0c440f20bdc8ecb83b50b8fbfea2d62b89e227a7d33709af464c49045c2651e12f73b2b997ae'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zOOYTMGD/versions/KyH72UJ8/no-free-deaths-1.1.2.jar'
+
+[update.modrinth]
+mod-id = 'zOOYTMGD'
+version = 'KyH72UJ8'
