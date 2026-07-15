@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod-neoforge.pw.toml"
-hash = "6cb9a65fffd9e9fe8c04eda446cb4ded81469ec5c2deb129ec9a669a030c68ef"
+hash = "f7e062fdf3a60af6ee2d7e1a585bf58ed62cb4b6d89bed1c33a2f47964c3f014"
 metafile = true
 
 [[files]]
