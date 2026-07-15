@@ -650,6 +650,11 @@ hash = "730a231ebd7c423342ac9a7443db13831f53c392e8e2772ba9d1ddbf2e5b9b34"
 metafile = true
 
 [[files]]
+file = "mods/nodurability.pw.toml"
+hash = "9ced4ec0c01f25aa65cad480d4808e7d4604b5d8fde6a8bfb9321e04c38508ae"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "a2e9eb49d44ae59d13ec7bd75eb43d66da4a4654b9631f693dafd792d65e4bc4"
 metafile = true
@@ -657,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
 hash = "2655d006ff3f6fad12dd3cd5791b77ff9ea1073194f784ee17c6e6f708e2809a"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
 metafile = true
 
 [[files]]
@@ -757,6 +767,11 @@ metafile = true
 [[files]]
 file = "mods/schematicians-goggles.pw.toml"
 hash = "27465c7d604b964670651b33fcfb36969f1c6d96f8fae4052e715009ac4072d2"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "2507dd9242e994ec7a0b21255b0b51a91bf9e0e51b060defe7bf7f8fa1f04b53"
 metafile = true
 
 [[files]]

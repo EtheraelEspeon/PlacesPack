@@ -1,0 +1,13 @@
+name = "No Durability"
+filename = "nodurability-neoforge-3.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/I4TO1llk/versions/y8hTERCz/nodurability-neoforge-3.0.0.jar"
+hash-format = "sha512"
+hash = "e7a39f2d05b8566c1c9c467b5a16005377810b1363248d2ada00c6e9eb0af1715f167f1cdc97415426232acc20bb363d0ab8b30f36e88816cd9b782453ce3c9e"
+
+[update]
+[update.modrinth]
+mod-id = "I4TO1llk"
+version = "y8hTERCz"
