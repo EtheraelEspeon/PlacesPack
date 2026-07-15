@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/contraptionlights-client.toml"
+hash = "9d2c3f5018c308fb4d9e1f5124a8cd0b29aec830929c70e6ed1ee6cb5308c86f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c4d0beb267925df7e513d53eaa7f6a9eb93ac002a7b8211e14a07587fada9586"
 metafile = true
