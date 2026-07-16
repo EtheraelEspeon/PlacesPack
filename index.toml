@@ -90,6 +90,11 @@ hash = "1e12f8cabd26a4b66016f6e41dcde514850f270f1b6a293fb31dfe579f365891"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "152fd231ec725eb323fce803f4a576a6709d3df6143ace5df51de8941f60a17d"
 metafile = true
@@ -182,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeronautics-paddlewheels.pw.toml"
 hash = "073d10a57fdecd72aac9f945fc6bc43f4778af57885cdab336f31352bfc11ae6"
+metafile = true
+
+[[files]]
+file = "mods/create-aeronautics-physics-gantry.pw.toml"
+hash = "64a8a6838b669dba08ba6e7c551f107791e0c2f1dae3e4f089a828108c148b86"
 metafile = true
 
 [[files]]
@@ -407,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "54588a6b7f6a9ea789f683c9f351d9dbe50d0363a6e24f8539b71d2bb0a63955"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "ac4cbc46bfffd2dcfac4eac2f03d93418abecdf38b2a266e57579c315987ac77"
 metafile = true
 
 [[files]]
@@ -730,6 +745,11 @@ hash = "4c71f20597edba54c4bf8a308c9e045d2c106afcc7b37b24fa37daec0a884ac0"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "1dfd8edb2bc1e383bd7010a8d8897f1099bbb9ff3f2cf46f79908af478d4dd37"
 metafile = true
@@ -810,6 +830,11 @@ hash = "8b7e37d12cb794c747aebd473357294602243de8d35addfcbdfc4a0ddc871e09"
 metafile = true
 
 [[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "0a7221f34ac9ad5612bccc31bc89e2b5b75c308476efd79c3afed8b774f972e0"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "7d46b9ef36e2b1ecfc5f3697dcd83183cbe39444efffedf88405e088a0e79d47"
 metafile = true
@@ -877,6 +902,11 @@ metafile = true
 [[files]]
 file = "mods/tmrv.pw.toml"
 hash = "6f18007605bc1aca0ba95030fed1cec8e9065b86d6f60bcddabb2a5ccccd345e"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "0f67fdb37d6ef354f36a1da5805b5c083be21e7367868ec81d29426d94749609"
 metafile = true
 
 [[files]]
