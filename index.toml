@@ -164,6 +164,11 @@ hash = "2e70f18fb3d6d7cb3a66b1ddd2912291d1789dfa1c3cd8d9921aa29184e2ea41"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
+metafile = true
+
+[[files]]
 file = "mods/create-additional-logistics.pw.toml"
 hash = "77cb2c7b27aa6544a8e6a05230fbe855753740e8f4cf6decca2d9f9942722213"
 metafile = true
@@ -569,6 +574,11 @@ hash = "e2934218943338531c7d0ad9848ae0769be92109da37bb8a489460e79055e326"
 metafile = true
 
 [[files]]
+file = "mods/items-nbt-viewer.pw.toml"
+hash = "01a01a3ced0ca859ddcc0a5319b015feb07c228b0fa7f9f2a9ca8fca2c7bd36a"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "45cd6fae2fb2fc49b5190011caea3b7e1f43395bcacf2d6da3f3b52bc74e2bf3"
 metafile = true
@@ -626,6 +636,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "ad37d9e612886d3c2695cc9712f08dc3795a98b8fa8d75a96e7c8ac43d683cd0"
+metafile = true
+
+[[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "d893658cf4c1e26909e29c6b344614b5b51ea0cd2b380aad721624815a709c57"
 metafile = true
 
 [[files]]
@@ -784,6 +799,11 @@ hash = "7511bd836df50d279bad146ea3a781754e1ef836e779abe261a25449601a39c7"
 metafile = true
 
 [[files]]
+file = "mods/sable-schematic-tool.pw.toml"
+hash = "1689ab92b06bdbb37a960d9c820d13b5ec91fc1108ec9e40c19be1090c121adc"
+metafile = true
+
+[[files]]
 file = "mods/sable-sure-footing.pw.toml"
 hash = "27baa699ff025d9c84da6019dd2899c2e8f429395b16b0e109d11f535add22b7"
 metafile = true
@@ -821,6 +841,11 @@ metafile = true
 [[files]]
 file = "mods/simple-analog.pw.toml"
 hash = "b7f4c2cb3ebdf231f79213dd48ddfa44a568e5b4a0129eb4d90c688b36fd75dd"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
 metafile = true
 
 [[files]]
@@ -871,6 +896,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "3d8e378bf2e02ce4dbb2328791465e4d57508412b1bc9f34af34a43da226b2f4"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
