@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "commit.sh"
+hash = "de4f50123454af8def8abd96eb4e1cd8041782786b7dad13304791299b493738"
+
+[[files]]
 file = "config/contraptionlights-client.toml"
 hash = "9d2c3f5018c308fb4d9e1f5124a8cd0b29aec830929c70e6ed1ee6cb5308c86f"
 
