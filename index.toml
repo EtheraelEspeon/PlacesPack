@@ -984,11 +984,6 @@ hash = "8c962589501b86b06570e6507a58103dafd49c40554fd0924c9df54d60ff324b"
 metafile = true
 
 [[files]]
-file = "mods/wakes-reforged.pw.toml"
-hash = "8cedd90f027e7db6371dd351afc111bc33b1b388a1871de01cfca93d69d8e490"
-metafile = true
-
-[[files]]
 file = "mods/wandering-wizardry.pw.toml"
 hash = "bdcbedbbdcd0ccaf47d075c9b4df8b786ee5b09a83054d5fe36a6d49c82e30fc"
 metafile = true
