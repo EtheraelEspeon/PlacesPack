@@ -604,6 +604,11 @@ hash = "dbe1fd8451868543d355639e6f85c0d22ee4825b113799a128520b3fb00a631b"
 metafile = true
 
 [[files]]
+file = "mods/keybind-search.pw.toml"
+hash = "ffefeebaa09c77532bbebbc31fae22642de4c6e913f567ab41a26bcd9dba7dd4"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "ed77efd1e63eafec6bbeea6e53339226f62569c203144efcb7d05c406fdbcf0a"
 metafile = true
