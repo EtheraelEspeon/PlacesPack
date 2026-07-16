@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
-hash = "464475a1c83731181df10c93e0f6bb9301c12114a25f4b4bd0208a37d9625550"
+hash = "d66f3ca71587c7ab8076f4a0154b0d3aa2f043c29c6373f2b8b2e5d6c3c3e91f"
 metafile = true
 
 [[files]]
