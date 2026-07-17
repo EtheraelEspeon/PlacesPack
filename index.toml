@@ -134,6 +134,11 @@ hash = "a927b3540095bfbdbba24f977791e640e6b483c6182340cf919ad35795db8edc"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "b66c76dd9148686b0bccc5166839892b2442197504510bd9cca1306755a18ad1"
+metafile = true
+
+[[files]]
 file = "mods/compass-to-map.pw.toml"
 hash = "33810492bded250ac08a425d8fc2640912354b3c474c6746f1980836863ed6ea"
 metafile = true
@@ -874,11 +879,6 @@ hash = "8b7e37d12cb794c747aebd473357294602243de8d35addfcbdfc4a0ddc871e09"
 metafile = true
 
 [[files]]
-file = "mods/sleep-tight.pw.toml"
-hash = "0a7221f34ac9ad5612bccc31bc89e2b5b75c308476efd79c3afed8b774f972e0"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "7d46b9ef36e2b1ecfc5f3697dcd83183cbe39444efffedf88405e088a0e79d47"
 metafile = true
@@ -916,6 +916,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy-sync.pw.toml"
+hash = "439824c8057097e95e14e0c9482f8b50d77ef581ada3dac981874eb8c88b0b51"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "4092caadda557c3d4fc26593199556df3468669d179db5c16b028b5aee1576ce"
 metafile = true
 
 [[files]]
