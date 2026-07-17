@@ -1,0 +1,13 @@
+name = "Loot Journal"
+filename = "lootjournal-neoforge-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RQpOxS9f/versions/7XSWPaMZ/lootjournal-neoforge-1.3.0.jar"
+hash-format = "sha512"
+hash = "745786923b2c2e4c5f7b75a66eb56cc71ad7ec8d86d980b1af15b4359329c307954b21de7ff7942470ca4d0c243ab54383ee84b7aa9875fa7aa810b49eecd91f"
+
+[update]
+[update.modrinth]
+mod-id = "RQpOxS9f"
+version = "7XSWPaMZ"
