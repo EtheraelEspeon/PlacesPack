@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
-hash = "4092caadda557c3d4fc26593199556df3468669d179db5c16b028b5aee1576ce"
+hash = "a345a1f11742ea52b197e30efabb4f86a47ede4e9f06a825355f18c8936e5b06"
 metafile = true
 
 [[files]]
