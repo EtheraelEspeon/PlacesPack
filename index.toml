@@ -663,6 +663,11 @@ hash = "f3e927f8d8f786783d8875f940ea413283a9395913b7194c2d33995915a29211"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "ba42c56a60cb1ec2cf60c15d1ea58477dc767672fc50728beb1eecd29b88d043"
 metafile = true
