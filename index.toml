@@ -529,6 +529,11 @@ hash = "e074532fbb22bc5e8d8c3f969fc7e62971a1f21af53e5594b10a156da7f154f9"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "85ba6f016d7447b4ba0013eab45ecfffd4349e99acd892d46c16bf0d2411f8cc"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "1faf48b7c3887b3b9ccae6999c9ebb36e9424009b8d3be5c4275aa7c0f139bcd"
 metafile = true
@@ -659,8 +664,8 @@ hash = "ba42c56a60cb1ec2cf60c15d1ea58477dc767672fc50728beb1eecd29b88d043"
 metafile = true
 
 [[files]]
-file = "mods/lootjournal.pw.toml"
-hash = "c8ca564dddb8db8d2b9bf4e428fdd00b66576adaa59b2d544637e06ea202a5ee"
+file = "mods/loot-journal.pw.toml"
+hash = "e0d110681ecc91f26f5d82bf654a37a963e4754eb07df0ee15e366d292cd6d5e"
 metafile = true
 
 [[files]]
