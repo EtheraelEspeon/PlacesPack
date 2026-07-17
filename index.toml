@@ -829,11 +829,6 @@ hash = "af16c5ba89a82a4776b29bbd804b4f2e5c22c34e9c365a1919da90dd94942123"
 metafile = true
 
 [[files]]
-file = "mods/sable-pathfinder.pw.toml"
-hash = "bb53384b726692f7c4227355fa0653cbb6aba5bd0bd3ea7c586d395aa4d2d135"
-metafile = true
-
-[[files]]
 file = "mods/sable-ragdolls.pw.toml"
 hash = "7511bd836df50d279bad146ea3a781754e1ef836e779abe261a25449601a39c7"
 metafile = true
