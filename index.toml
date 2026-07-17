@@ -59,11 +59,6 @@ hash = "7d405f68baa2426da51e9901a2c34c8307ff65c64592a6c610f513b969831669"
 metafile = true
 
 [[files]]
-file = "mods/ars-elixirum.pw.toml"
-hash = "65ae54fbe544adbd5c83872bfbe75f08939f9941f18bef611c4b829d421229f3"
-metafile = true
-
-[[files]]
 file = "mods/auto-portal-waypoints.pw.toml"
 hash = "68cca6bbc60261300c6de4d71786044ac7c606cc26a9d80f3255ba017332eb63"
 metafile = true
@@ -531,11 +526,6 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "e074532fbb22bc5e8d8c3f969fc7e62971a1f21af53e5594b10a156da7f154f9"
-metafile = true
-
-[[files]]
-file = "mods/fragmentum.pw.toml"
-hash = "85ba6f016d7447b4ba0013eab45ecfffd4349e99acd892d46c16bf0d2411f8cc"
 metafile = true
 
 [[files]]
