@@ -828,6 +828,11 @@ hash = "8ef3a57ac468cad26c1cb4c32386319a29a2bb3c7771ce69f9e050674fb0621e"
 metafile = true
 
 [[files]]
+file = "mods/sable-cleanup.pw.toml"
+hash = "a853620e7a9fff71bb22f2e467b5861bafdea792d4e679709800c587c98ae95c"
+metafile = true
+
+[[files]]
 file = "mods/sable-floaters.pw.toml"
 hash = "af16c5ba89a82a4776b29bbd804b4f2e5c22c34e9c365a1919da90dd94942123"
 metafile = true
