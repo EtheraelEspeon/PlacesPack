@@ -1023,11 +1023,6 @@ hash = "bdcbedbbdcd0ccaf47d075c9b4df8b786ee5b09a83054d5fe36a6d49c82e30fc"
 metafile = true
 
 [[files]]
-file = "mods/what-are-they-up-to.pw.toml"
-hash = "f1a4759a60784d52311362bbc904eb099917a04716885ad20a65caf778837b70"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "2c3c1a470e0aadb71f40f2eade67760b9452b3d6c23e039239aeeded0e72c5ca"
 metafile = true
