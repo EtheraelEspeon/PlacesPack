@@ -503,6 +503,11 @@ hash = "c03f7fb679748b4c8beb2197a25141d6e222798ef9f1af66b1e17b91452fd316"
 metafile = true
 
 [[files]]
+file = "mods/farworld.pw.toml"
+hash = "7f0a49089bebe128a54884d76576927760788b30eafc2e9f3fc4f43f94105e9c"
+metafile = true
+
+[[files]]
 file = "mods/fast-item-frames.pw.toml"
 hash = "86b0afccdf08f7c750e8a34b199315a36239985d34236832c3c22000c55d0279"
 metafile = true
@@ -635,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "ed77efd1e63eafec6bbeea6e53339226f62569c203144efcb7d05c406fdbcf0a"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
 
 [[files]]
@@ -825,6 +835,11 @@ metafile = true
 [[files]]
 file = "mods/respawning-animals.pw.toml"
 hash = "8ef3a57ac468cad26c1cb4c32386319a29a2bb3c7771ce69f9e050674fb0621e"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
 metafile = true
 
 [[files]]
