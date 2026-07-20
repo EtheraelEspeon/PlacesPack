@@ -693,6 +693,11 @@ hash = "ad37d9e612886d3c2695cc9712f08dc3795a98b8fa8d75a96e7c8ac43d683cd0"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "e0eb9856cfbcefd70a853efd4e5ab8deb6a3add9f97f927860ed19b8055f8b88"
+metafile = true
+
+[[files]]
 file = "mods/mob-lassos.pw.toml"
 hash = "d893658cf4c1e26909e29c6b344614b5b51ea0cd2b380aad721624815a709c57"
 metafile = true
