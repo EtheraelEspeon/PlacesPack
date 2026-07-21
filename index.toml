@@ -788,6 +788,10 @@ hash = "fd2e2bedb7c549cdd0b7ec20c21ae3b6a30079b8dbcf683998ce906cda9b44af"
 metafile = true
 
 [[files]]
+file = "mods/penis-1.0.0.jar"
+hash = "dd6e413035d411dcb4d98307629175967117bcdea507b295fa074ef291c16ded"
+
+[[files]]
 file = "mods/pf-neoforge.pw.toml"
 hash = "1ae1abaa9a879b2cee7248631d0d557ae4b53d0adaaee2c87a6a4f9666ef30ec"
 metafile = true
